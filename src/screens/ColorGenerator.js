@@ -32,7 +32,7 @@ const ColorGenerator = () => {
               //Alert.alert(randomColor());
               setnewColor([...newColor, randomColor()]);
             }}>
-            Generate Color
+            Generate Color Game
           </Text>
         </TouchableOpacity>
 
